@@ -1,0 +1,3 @@
+elasticsearch:
+  port: 9200
+  servers: 120.48.65.170=debug
